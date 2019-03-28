@@ -1,7 +1,8 @@
 {
   "name": "create-react-app-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "description": "Boilerplate for react and webpack",
+  "private": false,
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
@@ -16,8 +17,14 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "ghdeploy": "gh-pages -d build"
   },
+  "repository": "https://github.com/justinkx/create-react-app-boilerplate.git",
+  "homepage": "http://justinkx.github.io/create-react-app-boilerplate",
+  "author": "Justin K Xavier",
+  "license": "ISC",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -26,5 +33,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
