@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.7a26ba45.chunk.css",
-  "main.js": "/static/js/main.9e93ae08.chunk.js",
-  "main.js.map": "/static/js/main.9e93ae08.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.90b4bad6.chunk.js": "/static/js/2.90b4bad6.chunk.js",
-  "static/js/2.90b4bad6.chunk.js.map": "/static/js/2.90b4bad6.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.eab8fe0dc43989f4b17d587cdd720380.js": "/precache-manifest.eab8fe0dc43989f4b17d587cdd720380.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.7a26ba45.chunk.css.map": "/static/css/main.7a26ba45.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/create-react-app-boilerplate/static/css/main.7a26ba45.chunk.css",
+  "main.js": "/create-react-app-boilerplate/static/js/main.a6f66467.chunk.js",
+  "main.js.map": "/create-react-app-boilerplate/static/js/main.a6f66467.chunk.js.map",
+  "runtime~main.js": "/create-react-app-boilerplate/static/js/runtime~main.a9c44417.js",
+  "runtime~main.js.map": "/create-react-app-boilerplate/static/js/runtime~main.a9c44417.js.map",
+  "static/js/2.90b4bad6.chunk.js": "/create-react-app-boilerplate/static/js/2.90b4bad6.chunk.js",
+  "static/js/2.90b4bad6.chunk.js.map": "/create-react-app-boilerplate/static/js/2.90b4bad6.chunk.js.map",
+  "index.html": "/create-react-app-boilerplate/index.html",
+  "precache-manifest.588d3a0d71c87ce95cee8d61c6341403.js": "/create-react-app-boilerplate/precache-manifest.588d3a0d71c87ce95cee8d61c6341403.js",
+  "service-worker.js": "/create-react-app-boilerplate/service-worker.js",
+  "static/css/main.7a26ba45.chunk.css.map": "/create-react-app-boilerplate/static/css/main.7a26ba45.chunk.css.map",
+  "static/media/logo.svg": "/create-react-app-boilerplate/static/media/logo.5d5d9eef.svg"
 }
