@@ -1,0 +1,1 @@
+export const GROWL_MESSAGE = 'GROWL_MESSAGE';

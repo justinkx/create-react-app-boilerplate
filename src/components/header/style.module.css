@@ -1,0 +1,38 @@
+.sideMenu_Container {
+  width: 90px;
+  background: rgb(60, 65, 79);
+  color: rgb(116, 126, 135);
+  display: flex;
+  text-align: center;
+  z-index: 100;
+  flex-flow: column;
+  height: 100vh;
+}
+.icons_container {
+  margin: auto;
+}
+.navLink_container {
+  padding: 10px 0px;
+  margin: 20px 0px;
+}
+.profileContainer {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  border: 3px solid white;
+  display: flex;
+}
+.profileContainer i {
+  width: 100%;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.profile_section {
+  margin: 0px auto 5px auto;
+}
+.profile_section p {
+  margin: 4px 7px;
+}
